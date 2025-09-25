@@ -14,7 +14,7 @@
 
 ---
 
-📂 Учебные проекты (Karpov.Courses):
+## 📂 Учебные проекты (Karpov.Courses):
 | Название проекта | Описание проекта | Стек |
 |------------------|------------------|------|
 | [Проект 1: Retention F2P-игры](https://github.com/Tolesh/f2p_game_retention) | Когортный анализ retention, A/B-тест промо-офферов, расчёт DAU/ARPU, визуализации в Python | Python, Pandas, Matplotlib |
@@ -30,7 +30,7 @@
 
 ---
 
-### 🛠 Languages and Tools:
+## 🛠 Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -41,7 +41,7 @@
 
 ---
 
-### 📫 Контакты:
+## 📫 Контакты:
 - Telegram: [@toleshq](https://t.me/toleshq)
 - Email: kessikov16@gmail.com
 
