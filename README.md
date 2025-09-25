@@ -25,6 +25,5 @@
 ---
 
 ### 📫 Контакты:
-- Telegram: [@твой_ник](https://t.me/твой_ник)
-- LinkedIn: [ссылка](https://linkedin.com/in/твой_профиль)
-- Email: твоя@почта.com
+- Telegram: [@toleshq](https://t.me/toleshq)=
+- Email: kessikov16@gmail.com
