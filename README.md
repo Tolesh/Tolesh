@@ -19,8 +19,8 @@
 |------------------|------------------|------|
 | [Проект 1: Retention F2P-игры](https://github.com/Tolesh/f2p_game_retention) | Когортный анализ retention, A/B-тест промо-офферов, расчёт DAU/ARPU, визуализации в Python | Python, Pandas, Matplotlib |
 | [Проект 2: A/B-тест оплаты](https://github.com/Tolesh/ab_test_payment_mechanic) | Проверка гипотезы новой механики оплаты, SQL-запросы для ARPU/CR, Python для анализа | SQL, Python, Pandas |
-| [Marketplace](https://github.com/Tolesh/marketplace_analysis) | Retention по заказам, оценка product/market fit, ключевые метрики роста прибыли | SQL, Python, Tableau |
-| [ETL + Airflow](https://github.com/Tolesh/etl_airflow_project) | Построение DWH, DAG в Airflow, автоматизация отчётности | Airflow, PostgreSQL, Docker |
+| [Проект 3: EdTech-продукт](https://github.com/Tolesh/edtech_project) | Анализ пользовательской воронки и A/B-эксперимента в EdTech-платформе: от регистрации до оплаты, статистическая проверка гипотез и рекомендации по улучшению онбординга | Python, Pandas, SciPy, Matplotlib |
+| [Проект 4: Аналитика фитнес-приложения 1Fit](https://github.com/Tolesh/-project_onefit) | Retention-анализ, оценка product/market fit, расчёт ARPU/LTV/CAC/ROI, визуализация метрик и A/B-тестирование в Python и SQL | SQL, Python, ClickHouse, DataLens |
 
 ---
 
